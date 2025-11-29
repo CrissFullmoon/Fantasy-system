@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FantasySystem.Backend/FantasySystem.Backend.csproj" />
+  <Project Path="FantasySystem.Frontend/FantasySystem.Frontend.csproj" />
+  <Project Path="FantasySystem.Shared/FantasySystem.Shared.csproj" />
+  <Project Path="FantasySystem.Tests/FantasySystem.Tests.csproj" />
+</Solution>
